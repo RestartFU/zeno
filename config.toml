@@ -1,0 +1,23 @@
+
+[Network]
+Address = ":19132"
+
+[Players]
+Folder = "players"
+MaxCount = 500
+MaximumChunkRadius = 8
+SaveData = false
+
+[Resources]
+Folder = "data/resources"
+
+[Server]
+AuthEnabled = true
+JoinMessage = "§8[§a+§8] §f%s"
+Name = "§bZeno"
+QuitMessage = "§8[§c-§8] §f%s"
+ShutdownMessage = "§3Server closed."
+
+[World]
+Folder = "data/world"
+Name = "Practice"

@@ -1,0 +1,9 @@
+{
+  "path": "saves/test.zip",
+  "name": "I Have No Idea",
+  "game": "NoDebuff",
+  "positions": [
+    [567, 84, 595],
+    [653, 84, 595]
+  ]
+}
